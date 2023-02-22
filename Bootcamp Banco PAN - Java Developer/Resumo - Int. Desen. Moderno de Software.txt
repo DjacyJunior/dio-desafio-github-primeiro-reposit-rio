@@ -1,0 +1,36 @@
+#PROFISSIONAIS
+
+UX Design (User Experience)
+- melhora a experiência do usuário
+
+UI Design (User Interface)
+- cria o que o usuário irá ver
+
+Developer Front End
+- programa a parte visual (HTML, CSS e JavaScript)
+
+Developer Back End
+- programa toda a parte de estrutura que está por trás de uma aplicação (Java, PHP, C#)
+
+Developer Full Stack
+- trabalha com o Back End e com o Front End
+
+Cloud Computing
+- responsável pela infraestrutura de nuvem oferecida aos clientes.
+
+Quality Assurance (QA)
+- verifica se os padrões de qualidade estão sendo atendidos e se todos os requisitos mínimos esperados no produto serão entregues.
+
+
+#FERRAMENTAS
+
+IDE 
+- software utilizado para criar as aplicações que combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuários (GUI)
+
+Framework
+- são facilitadores, soluções pré-definidas que descomplicam o trabalho (Angular, Laravel e Vue)
+
+API
+- Application Programming Interface (interface de programação de aplicativos), premite que 2 aplicativos conversem entre si.
+
+  
